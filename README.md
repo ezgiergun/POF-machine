@@ -23,11 +23,6 @@
   - [x] Allow List
   - [x] Gatekeeper
 
-### Multi Group 
-*For Multi-group functionality use [multi-group](https://github.com/wearekite/candy-machine-v3-ui/tree/multi-group) branch*
-
-
-
 ### Env Variables
 ```
 NEXT_PUBLIC_SOLANA_NETWORK=mainnet/devnet
