@@ -617,7 +617,11 @@ const Home = (props: HomeProps) => {
                     <a href="#" target="_blank" rel="noopener noreferrer"><Discord></Discord></a>
                   </IconRow>
                 </InfoRow>
-                <CollectionDescription>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</CollectionDescription>
+                <CollectionDescription>The cats of Park of Freedom are a beloved community of feral
+                  cats who have made the park their home. They are cared for by
+                  a group of volunteers who provide them with food, water, and
+                  medical attention as needed. By purchasing one of our NFTs,
+                  you'll be directly supporting the cats of Park of Freedom.</CollectionDescription>
               </Content>
               <Other>
                 {!guardStates.isStarted ? (
